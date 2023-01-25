@@ -1,0 +1,10 @@
+__pychache__
+*.pyc
+.idea
+venv
+*.feather
+*.xlsx
+*.csv
+*.parquet
+output/*.html
+output/images/*.html
